@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { useEffect } from 'react'
 
-import reactLogo from './assets/react.svg'
 import Die from "./Die"
 import Confetti from 'react-confetti'
 import {nanoid} from "nanoid"
